@@ -5,8 +5,6 @@
 
 **Sistema de bloqueio e kiosk mode para terminais médicos e industriais**
 
-<img src="interface.PNG" alt="Interface do BlockSecure" width="500"/>
-
 [![Versão](https://img.shields.io/badge/versão-1.0.0-gold?style=for-the-badge)](https://github.com/VictorJesus26/PRODUCAO_BLOCKSECURE/releases)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078d4?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![Linguagem](https://img.shields.io/badge/linguagem-C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
