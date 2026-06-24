@@ -12,7 +12,7 @@
 
 ---
 
-*Desenvolvido por Victor Jesus para garantir a integridade e segurança de terminais de visualização médica.*
+*Desenvolvido por Victor Jesus para garantir a integridade e segurança de terminais de visualização.*
 
 </div>
 
