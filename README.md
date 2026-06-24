@@ -16,6 +16,8 @@
 
 </div>
 
+<img src="interface.PNG" alt="Interface do BlockSecure" width="500"/>
+
 ---
 
 ## 📋 Sobre o Projeto
