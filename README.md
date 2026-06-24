@@ -3,7 +3,7 @@
 
 # 🔒 BlockSecure
 
-**Sistema de bloqueio e kiosk mode para terminais médicos e industriais**
+**Sistema de bloqueio e kiosk mode para terminais de visualização e industriais**
 
 [![Versão](https://img.shields.io/badge/versão-1.0.0-gold?style=for-the-badge)](https://github.com/VictorJesus26/PRODUCAO_BLOCKSECURE/releases)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078d4?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
@@ -20,11 +20,11 @@
 
 ## 📋 Sobre o Projeto
 
-O **BlockSecure** é uma solução corporativa de **kiosk mode** e **bloqueio de sistema**. Ele garante que terminais Windows utilizados em ambientes hospitalares e industriais operem de forma segura, restrita e controlada, impedindo o acesso não autorizado a funções do sistema operacional.
+O **BlockSecure** é uma solução corporativa de **kiosk mode** e **bloqueio de sistema**. Ele garante que terminais Windows utilizados em todos os ambientes para que operem de forma segura, restrita e controlada, impedindo o acesso não autorizado a funções do sistema operacional.
 
 ### 🎯 Casos de Uso
 
-- 🏥 **Terminais de Visualização Médica** — Estações de trabalho DICOM e sistemas de imagem
+- 🏥 **Terminais de Visualização ** — Estações de trabalho DICOM e sistemas de imagem
 - 🏭 **Terminais Industriais** — Painéis de controle e visualização em chão de fábrica
 - 🖥️ **Quiosques Corporativos** — Estações de trabalho dedicadas a uma única aplicação
 
